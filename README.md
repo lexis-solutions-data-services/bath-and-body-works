@@ -20,9 +20,7 @@ You can fetch product data by using a keyword query or by selecting a specific c
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.3` |
-| **Total Runs** | 186 |
-| **Total Users** | 3 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
